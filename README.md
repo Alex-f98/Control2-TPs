@@ -1,5 +1,7 @@
 #Programa Analitico:
 
+https://cms.fi.uba.ar/uploads/8616_f7d5d22492.pdf
+
 -1: Los problemas básicos del control automático. Limitaciones del enfoque clásico por Función
 Transferencia. Control de sistemas multivariables. Modelado de sistemas físicos en varias variables. Sistemas
 mecánicos, eléctricos, térmicos, de fluidos. Análisis de procesos industriales típicos. Planteo en variables de
